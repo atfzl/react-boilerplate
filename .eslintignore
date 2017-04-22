@@ -1,0 +1,4 @@
+/internals/scripts/**
+/flow-typed/**
+/build/**
+/coverage/**

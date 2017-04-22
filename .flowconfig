@@ -1,0 +1,9 @@
+[ignore]
+.*/node_modules/fbjs/.*
+.*/node_modules/styled-components/.*
+.*/node_modules/react-side-effect/.*
+.*/node_modules/babel-plugin-flow-runtime/.*
+
+[options]
+module.system.node.resolve_dirname=node_modules
+module.system.node.resolve_dirname=app
